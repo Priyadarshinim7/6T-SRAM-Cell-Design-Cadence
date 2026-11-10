@@ -51,7 +51,7 @@ The transistor dimensions used in the project are:
 
 | PM0, PM1 | PMOS Pull-Up | 4 µm | 180 nm |
 | NM0, NM1 | NMOS Pull-Down | 2 µm | 180 nm |
-| NM2, NM3 | NMOS Access | 1 µm | 180 nm |
+| NM2 | NMOS Access | 1 µm | 180 nm |
 
 **Supply Voltage:** 1.8 V
 
@@ -64,6 +64,7 @@ The pull-down NMOS transistors are stronger than the access transistors to reduc
 
 The 6T SRAM cell was designed at the transistor level using Cadence Virtuoso Schematic Editor.
 The circuit consists of two cross-coupled CMOS inverters and two access transistors connected to complementary bitlines and a common wordline.
+
 
 
 
