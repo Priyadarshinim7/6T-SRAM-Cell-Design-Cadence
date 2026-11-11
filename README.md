@@ -94,7 +94,7 @@ The simulation evaluates:
 - Hold operation
 - Read operation
 - Storage node switching behavior
-![image alt]()
+![image alt](https://github.com/Priyadarshinim7/6T-SRAM-Cell-Design-Cadence/blob/4468720c9a1d497b703154768be7d768532e829f/trans1%20(1).bmp)
 
 # 5. Full-Custom Layout
 
