@@ -9,7 +9,7 @@ The project was further extended to synthesis and physical implementation using 
 - Design a functional 6T SRAM bitcell at the transistor level.
 - Verify the Voltage Transfer Characteristics (VTC) and butterfly curve.
 - Analyze Static Noise Margin (SNM) and data retention.
-- Validate read and write operations through transient simulation.
+- Validate read and write operations through transient simulation
 - Implement the full-custom layout using Cadence Virtuoso.
 - Extend the design flow to synthesis and physical implementation.
 - Understand the complete VLSI design flow from circuit design to physical implementation.
