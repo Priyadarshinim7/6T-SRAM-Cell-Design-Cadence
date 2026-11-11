@@ -113,10 +113,10 @@ The layout was designed with emphasis on:
 The project was extended beyond transistor-level design to include synthesis and physical implementation.
 Cadence Genus was used for the synthesis stage, followed by the associated physical-design flow.
 This extension provides exposure to the implementation process beyond schematic design and simulation.
-![image alt]()
+![image alt](https://github.com/Priyadarshinim7/6T-SRAM-Cell-Design-Cadence/blob/dba092226ed6a3fa35d69a758b2e82234a52cd16/GATELEVEL.png)
 
 ## 📊 Simulation Results
-![image alt]()
+![image alt](https://github.com/Priyadarshinim7/6T-SRAM-Cell-Design-Cadence/blob/dba092226ed6a3fa35d69a758b2e82234a52cd16/SIM.png)
 
 ### DC Analysis — Butterfly Curve
 
@@ -155,7 +155,7 @@ The layout includes:
 - Complementary bitline routing
 - Wordline routing
 - Symmetrical storage-node arrangement
-![image alt]()
+![image alt](https://github.com/Priyadarshinim7/6T-SRAM-Cell-Design-Cadence/blob/dba092226ed6a3fa35d69a758b2e82234a52cd16/pd.png)
 
 The project was further extended to synthesis and physical implementation using Cadence EDA tools.
 
