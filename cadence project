@@ -64,14 +64,7 @@ The pull-down NMOS transistors are stronger than the access transistors to reduc
 
 The 6T SRAM cell was designed at the transistor level using Cadence Virtuoso Schematic Editor.
 The circuit consists of two cross-coupled CMOS inverters and two access transistors connected to complementary bitlines and a common wordline.
-<p align="center">
-  <img src="C:\Users\priya\Downloads\sche (1).png" width="700">
-</p>
-
-<p align="center">
-  <em>Figure 1: 6T SRAM Cell Schematic in Cadence Virtuoso</em>
-</p>
-
+sche (1).png
 
 
 
