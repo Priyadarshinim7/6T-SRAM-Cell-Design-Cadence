@@ -113,8 +113,10 @@ The layout was designed with emphasis on:
 The project was extended beyond transistor-level design to include synthesis and physical implementation.
 Cadence Genus was used for the synthesis stage, followed by the associated physical-design flow.
 This extension provides exposure to the implementation process beyond schematic design and simulation.
+![image alt]()
 
 ## 📊 Simulation Results
+![image alt]()
 
 ### DC Analysis — Butterfly Curve
 
@@ -153,6 +155,7 @@ The layout includes:
 - Complementary bitline routing
 - Wordline routing
 - Symmetrical storage-node arrangement
+![image alt]()
 
 The project was further extended to synthesis and physical implementation using Cadence EDA tools.
 
