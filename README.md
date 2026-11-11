@@ -66,6 +66,7 @@ The 6T SRAM cell was designed at the transistor level using Cadence Virtuoso Sch
 The circuit consists of two cross-coupled CMOS inverters and two access transistors connected to complementary bitlines and a common wordline.
 
 ![6T sram schematic](https://github.com/Priyadarshinim7/6T-SRAM-Cell-Design-Cadence/blob/main/sche%20(1).png?raw=true)
+![image alt]()
 
 
 
