@@ -107,14 +107,11 @@ The layout was designed with emphasis on:
 - Bitline routing
 - Wordline connections
 - Design rule compliance
-![image alt]()
+![image alt](https://github.com/Priyadarshinim7/6T-SRAM-Cell-Design-Cadence/blob/cc0beccd5ef266af88f5ecefd2cae2f671591632/layout%20(1).png)
 
-### 6. Synthesis and Physical Implementation
-
+# 6. Synthesis and Physical Implementation
 The project was extended beyond transistor-level design to include synthesis and physical implementation.
-
 Cadence Genus was used for the synthesis stage, followed by the associated physical-design flow.
-
 This extension provides exposure to the implementation process beyond schematic design and simulation.
 
 ## 📊 Simulation Results
@@ -122,7 +119,6 @@ This extension provides exposure to the implementation process beyond schematic 
 ### DC Analysis — Butterfly Curve
 
 The DC analysis demonstrates the Voltage Transfer Characteristics of the cross-coupled inverters.
-
 Key observations:
 
 - Both inverters exhibit switching transitions near the midpoint voltage.
@@ -131,7 +127,6 @@ Key observations:
 - The cell demonstrates stable data retention under hold conditions.
 
 ### Transient Analysis — Read and Write Operations
-
 Transient analysis verifies the dynamic behavior of the SRAM cell.
 
 **Write Operation:**
@@ -145,13 +140,11 @@ When the wordline is low, the access transistors are turned off. The cross-coupl
 **Read Operation:**
 
 When the wordline is asserted high with precharged bitlines, the stored data is reflected on the bitlines through the access transistors.
-
 The simulation verifies the functionality of the SRAM cell during the access cycles.
 
 ## 🖥️ Physical Design
 
 The full-custom layout was implemented using Cadence Virtuoso Layout Suite.
-
 The layout includes:
 
 - PMOS pull-up transistor region
@@ -162,6 +155,7 @@ The layout includes:
 - Symmetrical storage-node arrangement
 
 The project was further extended to synthesis and physical implementation using Cadence EDA tools.
+
 
 ## 📁 Project Highlights
 
@@ -197,14 +191,11 @@ This project provided practical exposure to:
 
 ## 👩‍💻 Authors
 
-**Priyadarshini M**  
-**Pratibha C Yaledahalli**
-
+Priyadarshini M 
 Department of Electronics and Communication Engineering  
 The National Institute of Engineering, Mysuru
 
-## 📚 Academic Project
-
+# 📚 Academic Project
 Course: VLSI Design  
 Course Code: BEC614A
 
